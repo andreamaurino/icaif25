@@ -1,0 +1,10 @@
+Dataset,ErrorType,Feature,Percentage,Model,Accuracy,Precision,Recall,F1_Score
+loan,original,NULL,100,lda,0.9354,0.969,0.7192,0.8256
+loan,original,NULL,100,lr,0.9219,0.9011,0.711,0.7949
+loan,original,NULL,100,et,0.8821,0.7129,0.7463,0.7292
+loan,original,NULL,100,rf,0.868,0.7296,0.6026,0.6601
+loan,original,NULL,100,knn,0.8533,0.7345,0.486,0.585
+loan,original,NULL,100,mlp,0.8551,0.6535,0.6782,0.6656
+loan,original,NULL,100,nb,0.8247,0.7131,0.2939,0.4163
+loan,original,NULL,100,dt,0.82,0.7221,0.2496,0.371
+loan,original,NULL,100,svm,0.7997,0.729,0.0928,0.1646
